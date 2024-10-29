@@ -1,0 +1,6 @@
+duckdb
+llama-index
+llama-index-vector-stores-duckdb
+pandas
+polars
+duckdb-engine
